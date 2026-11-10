@@ -7,7 +7,7 @@
   "pcbRevision": "Rev0",
   "designStatus": "frozen",
   "verificationStatus": "unverified",
-  "hardwareStatus": "design-frozen",
+  "hardwareStatus": "boards-ordered",
   "summary": {
     "en": "A dual-variant RP2354A/RP2350A Core-S implementation with SWD, USB BOOTSEL, native USB, and 30 exposed GPIO signals.",
     "ja": "RP2354A/RP2350Aの2構成に対応し、SWD、USB BOOTSEL、Native USB、公開GPIO 30本を提供するCore-S実装です。"

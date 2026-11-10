@@ -3,7 +3,7 @@
 英語版 [`RELEASE_NOTES.md`](RELEASE_NOTES.md) を正本とします。
 
 - Freeze: 2026-11-04 00:03 JST
-- 状態: 初回Prototype基板製造向けに凍結、実機未検証
+- 状態: 初回Prototype基板製造向けに凍結、基板発注済み・到着待ち、未実装・未検証
 - 標準実装: RP2354A + 内部2 MB Flash
 - 代替実装: RP2350A + W25Q128JVSIQ 16 MB Flash
 - PCB: 25.40 mm角、4層、公称1.60 mm

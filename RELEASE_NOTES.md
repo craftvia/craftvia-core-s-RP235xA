@@ -5,6 +5,7 @@
 - Revision: Rev0
 - Freeze date: 2026-11-04 00:03 JST
 - Status: FROZEN for initial prototype PCB fabrication
+- Hardware status: PCB ordered; awaiting delivery, unassembled and unverified
 - Intended use: Rev0 engineering prototype; not a general-production release
 - Default assembly variant: `RP2354A + internal 2 MB Flash`
 - Alternate assembly variant: `RP2350A + external W25Q128JVSIQ 16 MB Flash`
