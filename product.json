@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "core-s-rp235xa",
+  "name": "Core-S RP235xA",
+  "role": "core",
+  "productVersion": "v1",
+  "pcbRevision": "Rev0",
+  "designStatus": "frozen",
+  "verificationStatus": "unverified",
+  "hardwareStatus": "design-frozen",
+  "summary": {
+    "en": "A dual-variant RP2354A/RP2350A Core-S implementation with SWD, USB BOOTSEL, native USB, and 30 exposed GPIO signals.",
+    "ja": "RP2354A/RP2350Aの2構成に対応し、SWD、USB BOOTSEL、Native USB、公開GPIO 30本を提供するCore-S実装です。"
+  },
+  "repository": "https://github.com/craftvia/craftvia-core-s-RP235xA",
+  "sourceRef": "main",
+  "image": "docs/images/3D_PCB1_2026-11-04.png",
+  "documents": {
+    "specification": { "en": "docs/specification-v1-rev0.md", "ja": "docs/specification-v1-rev0.ja.md" },
+    "verificationPlan": { "en": "docs/verification-plan-v1-rev0.md", "ja": "docs/verification-plan-v1-rev0.ja.md" },
+    "releaseNotes": "RELEASE_NOTES.md"
+  }
+}
